@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.U9drpxyUUs5QKEfGiUfyTgHaE8%26pid%3DApi&f=1",
+      "name": "Pizza 2",
+      "price": "20.90",
+      "description": "asdasdasdasda",
+      "available": true,
+      "id": 4
     }
   ]
 }
